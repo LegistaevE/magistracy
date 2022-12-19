@@ -30,4 +30,10 @@
 
 ## Лабораторная работа 3
 
-[Ссылка](https://docs.google.com/document/d/1O1s5vekT6_RdFybtDSWP_ByLFfH0k8PT9-7nAhdThIE/edit?usp=sharing)
+В рамках третьей лаборатороной работы:
+
+Подготовлен отчет о выполнении работы в программе Cico Packet Tracer:
+
+[Отчет](https://docs.google.com/document/d/1O1s5vekT6_RdFybtDSWP_ByLFfH0k8PT9-7nAhdThIE/edit?usp=sharing)
+
+## Экзаменационный билет
