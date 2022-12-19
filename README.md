@@ -27,3 +27,7 @@
 [Git-репозиторий проекта]()
 
 [Landing Page проекта]()
+
+## Лабораторная работа 3
+
+[Ссылка](https://docs.google.com/document/d/1O1s5vekT6_RdFybtDSWP_ByLFfH0k8PT9-7nAhdThIE/edit?usp=sharing)
