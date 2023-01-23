@@ -36,4 +36,4 @@
 
 [Отчет](https://docs.google.com/document/d/1O1s5vekT6_RdFybtDSWP_ByLFfH0k8PT9-7nAhdThIE/edit?usp=sharing)
 
-## Экзаменационный билет [12](https://github.com/stankin/inet-2022/wiki/exam12)
+## Экзаменационный билет [6](https://github.com/stankin/inet-2022/wiki/exam06)
